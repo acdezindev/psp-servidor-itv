@@ -8,18 +8,6 @@ Servidor HTTP seguro que simula una estacion de Inspeccion Tecnica de Vehiculos 
 
 ## Capturas de pantalla
 
-|                                |                                    |
-|:------------------------------:|:----------------------------------:|
-| ![Pagina Login](screenshot/login.jpg) | ![Panel Principal](screenshot/panel.jpg) |
-
-|                                      |                                    |
-|:------------------------------------:|:----------------------------------:|
-| ![Formulario Reserva](screenshot/panelcompleto.jpg) | ![Resultado ITV](screenshot/resultado.jpg) |
-
-|                                      |                                    |
-|:------------------------------------:|:----------------------------------:|
-| ![Formulario Reserva](screenshot/insertarmatricula.jpg) | |
----
 
 ## Caracteristicas principales
 
